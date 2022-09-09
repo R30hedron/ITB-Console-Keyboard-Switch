@@ -1,2 +1,1 @@
-# ITB-Console-Keyboard-Switch
-AHK script for quickly swapping keyboard layouts to access ItB console commands on non-US keyboards
+This AutoHotKey script uses the F11 key (by default) to input the backtick character when Into the Breach is the active window. It does so by quickly swapping the keyboard layout to US and then back to the previous layout after inputting the character. Use this script to access the console commands without having to manually switch keyboard layouts.
